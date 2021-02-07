@@ -27,4 +27,4 @@
 </body>
 
 </html>
-<script src="assets/js/script.js"></script> asdf
+<script src="assets/js/script.js"></script>
